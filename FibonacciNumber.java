@@ -6,15 +6,6 @@
  * @version 1.0
  */
 public record FibonacciNumber(int position, long value) {
-    /**
-     * Конструктор класу FibonacciNumber
-     *
-     * @param position позиція числа у послідовності Фібоначчі
-     * @param value    значення числа Фібоначчі
-     */
-    public FibonacciNumber {
-    }
-
 
     /**
      * Перевіряє, чи закінчується число на задану цифру
